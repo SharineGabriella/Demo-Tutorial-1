@@ -11,7 +11,7 @@ readme = st.checkbox("readme first")
 if readme:
 
     st.write("""
-        This is a web app demo using [streamlit](https://streamlit.io/) library. It is hosted on [stream cloud](https://streamlit.io/cloud). You may get the codes via [github](https://github.com/SharineGabriella/Demo-Tutorial-1""")
+        This is a web app demo using [streamlit](https://streamlit.io/) library. It is hosted on [stream cloud](https://streamlit.io/cloud). You may get the codes via [github] (https://github.com/SharineGabriella/Demo-Tutorial-1""")
 
     st.write ("For more info, please contact:")
 
